@@ -1,0 +1,6 @@
+C:\Users\Bickell\source\repos\Reverse Not In IDE\obj\Debug\Reverse Not In IDE.csprojAssemblyReference.cache
+C:\Users\Bickell\source\repos\Reverse Not In IDE\bin\Debug\Reverse Not In IDE.exe.config
+C:\Users\Bickell\source\repos\Reverse Not In IDE\bin\Debug\Reverse Not In IDE.exe
+C:\Users\Bickell\source\repos\Reverse Not In IDE\bin\Debug\Reverse Not In IDE.pdb
+C:\Users\Bickell\source\repos\Reverse Not In IDE\obj\Debug\Reverse Not In IDE.exe
+C:\Users\Bickell\source\repos\Reverse Not In IDE\obj\Debug\Reverse Not In IDE.pdb
